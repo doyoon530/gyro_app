@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Gyro_app" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Add button style to change button background color -->
+        <item name="android:buttonStyle">@style/MyButtonStyle</item>
+    </style>
+
+    <style name="Theme.Gyro_app" parent="Base.Theme.Gyro_app" />
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="MyButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/colorButtonBackground</item>
+        <item name="android:textColor">@color/colorButtonTextColor</item>
+    </style>
+
+    <style name="MyButtonStyle_enable" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/colorButtonEnable</item>
+        <item name="android:textColor">@color/colorButtonTextColor</item>
+    </style>
+
+    <style name="MyButtonStyle2" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/colorButtonBackground2</item>
+        <item name="android:textColor">@color/colorButtonTextColor2</item>
+    </style>
+</resources>

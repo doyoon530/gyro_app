@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorBackground">#F8F8F8</color>
+    <color name="colorButtonBackground">#8AAAE5</color>
+    <color name="colorButtonTextColor">#FEFEFE</color>
+    <color name="colorButtonBackground2">#9BE8D8</color>
+    <color name="colorButtonTextColor2">#FEFEFE</color>
+    <color name="colorButtonEnable">#757E8F</color>
+    <color name="colorTextView">#7895CB</color>
+    <color name="colorTitle">#7895CB</color>
+    <color name="border_color">#8AAAE5</color>
+    <color name="shadow_color">#FF000000</color>
+</resources>

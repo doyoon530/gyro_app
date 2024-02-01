@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">gyro_app</string>
+    <string name="gyro_x">Gyro X:</string>
+    <string name="gyro_y">Gyro Y:</string>
+    <string name="gyro_z">Gyro Z:</string>
+</resources>
